@@ -29,14 +29,6 @@ Overview: Modeled phase-change dynamics of water freezing on cold surfaces, inco
 Physics & Math: Transformed standard moving-boundary Stefan formulations using non-linear density equations of state to predict ice interface propagation.
 Tech Stack: Python, SciPy, Moving Boundary Numerical Schemes.
 
-3. Submerged Arc Furnace Scrap Steel Melting Model
-4. Overview: Modeled high-temperature scrap metal melting inside industrial arc furnaces by treating the scrap bed as a porous medium.
-Physics & Math: Coupled non-linear heat conduction, fluid flow, and porous media phase change (liquid steel matrix penetration).
-Tech Stack: Python, Continuum Mechanics, Porous Transport Modeling.
-
- 4. Porous Wick Thermosyphon Thermal Model
-Overview: Simulated steady and transient thermal-fluid performance in porous wick heat pipes for passive heat dissipation.
-Physics & Maths: Darcy-Forchheimer flow through porous media coupled with phase-change boundary conditions.
 
 Education & Pedagogical Background
 
