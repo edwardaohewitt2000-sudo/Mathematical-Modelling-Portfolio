@@ -47,14 +47,6 @@ Particular emphasis is placed on understanding model assumptions, operating regi
 
 ## 1. Multi-Scale Critical Heat Flux (CHF) & Boiling Dynamics Model
 
-### Results
-
-CHF%20Results%Figures.png
- 
-Three-domain framework coupling contact-line dynamics, evaporating microlayer behaviour and macro-scale vapour bubble evolution.
- 
-The lower panels show local evaporative mass flux and vapour recoil pressure distributions associated with near-wall film depletion mechanisms.
-
 ### Objective
 Developed a multi-scale computational model to investigate the onset of Critical Heat Flux (CHF) during pool and flow boiling, with a focus on the physical mechanisms governing boiling crisis and dryout.
  
