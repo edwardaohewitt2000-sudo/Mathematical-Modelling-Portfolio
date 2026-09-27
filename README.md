@@ -25,6 +25,24 @@ My approach to mathematical modelling follows four stages:
 
 Particular emphasis is placed on understanding model assumptions, operating regimes and limitations. 
 
+## Technical Skills
+
+### Programming
+- Python
+- MATLAB
+- Simulink
+
+### Numerical Methods
+- Finite Difference Methods
+- Finite Volume Methods
+- Nonlinear PDE Solvers
+
+### Analysis
+- Verification & Validation
+- Sensitivity Analysis
+- Uncertainty Quantification
+- Stability Analysis
+
 # Selected Engineering Models
 
 ## 1. Multi-Scale Critical Heat Flux (CHF) & Boiling Dynamics Model
@@ -86,6 +104,11 @@ Python | NumPy | SciPy | PDE Solvers | Scientific Computing
 ## Objective
 Develop an asymptotic and numerical model describing ice accretion on general cold manifolds incorporating the nonlinear density anomaly of water. 
 
+## Key Findings
+- Demonstrated the influence of manifold geometry on thermal gradients.
+- Investigated geometry dependent interface propagation.
+- Extended the model from planar geometries to cylindrical, elliptical, corrugated and star shaped manifolds.
+
 ## Physical Phenomena 
 - Phase change
 - Heat and Mass Transfer
@@ -134,11 +157,6 @@ The phase-change framework was extended from simple planar domains to arbitrary 
 - Star-shaped surfaces
  
 This enabled comparative investigation of the influence of geometric curvature on thermal gradients and interface evolution.
-
-# Education & Pedagogical Background
-
-Qualified Mathematics Educator: Skilled in technical communication, breaking down multi-scale physics, leading workshops, and documenting mathematical codebases.
-Technical Communication: Experienced in translating non-linear systems for multidisciplinary engineering teams.
 
 # Technical Skills Demonstrated
 
