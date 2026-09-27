@@ -1,4 +1,5 @@
- Hi, I'm Edward 
+ Hello, I'm Edward, and welcome to my GITHUB page.
+ 
  Thermal-Fluids Modeller & Numerical Analyst | North West, UK
 
 I specialize in multi-scale thermal-fluid dynamics, phase-change continuum mechanics, and non-linear partial differential equations (PDEs). Combining computational physics expertise with a background as a Qualified Mathematics Educator, I focus on translating complex physical systems into robust computational models.
@@ -10,23 +11,130 @@ Multiphase & Interfacial Phenomena: Micro/Meso/Macro Critical Heat Flux (CHF) mu
 
 Numerical Methods & PDEs: Finite Difference (FDM), Finite Volume (FVM), Non-Linear PDE Solvers, Multiscale Coupling.
 
+## Modelling Philosophy
+
+My approach to mathematical modelling follows four stages:
+1. Physical Understanding of the problem. This allows for intuitive and qualitative understanding of how the model is expected to work and what results the model is expected to show. This allows for physics informed reasoning rather than blind mathematical trust. This is supported through thoroughly understanding the literature, both research and textbook, surrounding the phenomena being explored and modelled. 
+2. Mathematical Formulation
+3. Numerical Implementation
+4. Verification, Validation and Sensitivity Analysis.
+
+Particular emphasis is placed on understanding model assumptions, operating regimes and limitations. 
+
 Selected Engineering Models
 
-1. Multi-Scale Critical Heat Flux (CHF) & Boiling Dynamics Model
-2. Overview: Developed a 3-scale computational model predicting Critical Heat Flux during pool and flow boiling.
-Multi-Scale Architecture:
-Micro-Layer: Solved thin-film evaporation dynamics along the solid surface.
-Meso-Layer: Modeled bubble nucleation, growth, and coalescing behavior.
-Macro-Layer: Simulated bulk fluid hydrodynamics and vapor removal mechanisms.
-Tech Stack:Python, Numerical PDE Solvers, Interfacial Hydrodynamics.
+## 1. Multi-Scale Critical Heat Flux (CHF) & Boiling Dynamics Model
+ 
+### Objective
+Developed a multi-scale computational model to investigate the onset of Critical Heat Flux (CHF) during pool and flow boiling, with a focus on the physical mechanisms governing boiling crisis and dryout.
+ 
+### Physical Phenomena
+- Thin-film evaporation
+- Bubble nucleation and growth
+- Bubble coalescence and departure
+- Vapour layer formation
+- Liquid-vapour interfacial dynamics
+- Bulk fluid hydrodynamics
+ 
+### Multi-Scale Architecture
+ 
+#### Micro Scale
+Modelled thin-film evaporation dynamics at the heated surface, capturing local heat transfer mechanisms and microlayer depletion.
+ 
+#### Meso Scale
+Simulated bubble nucleation, growth, interaction and coalescence to investigate vapour accumulation and surface coverage.
+ 
+#### Macro Scale
+Modelled bulk fluid circulation, vapour removal mechanisms and large-scale hydrodynamic behaviour governing CHF development.
+ 
+### Mathematical Framework
+- Coupled nonlinear partial differential equations
+- Conservation of mass, momentum and energy
+- Interfacial transport modelling
+- Multi-scale coupling between local and global boiling phenomena
+ 
+### Numerical Methods
+- Finite Difference based discretisation
+- Explicit and semi-implicit numerical schemes
+- Numerical stability and convergence assessment
+- Grid sensitivity analysis
+ 
+### Verification
+- Limiting-case comparisons against established boiling theory
+- Numerical convergence testing
+- Parameter consistency checks
+ 
+### Key Findings
+- Demonstrated the importance of coupling micro-scale evaporation with macro-scale hydrodynamic behaviour.
+- Identified parameter sensitivities influencing CHF prediction.
+- Investigated the transition from efficient nucleate boiling to boiling crisis conditions.
+ 
+### Limitations
+- Simplified treatment of turbulence effects.
+- Assumed continuum-scale behaviour.
+- Requires further validation against experimental boiling data.
+ 
+### Tech Stack
+Python | NumPy | SciPy | PDE Solvers | Scientific Computing
 
  2. Modified Stefan Problem: Ice Accretion with Density Anomaly
-Overview: Modeled phase-change dynamics of water freezing on cold surfaces, incorporating the non-linear density anomaly of water near 4°C.
-Physics & Math: Transformed standard moving-boundary Stefan formulations using non-linear density equations of state to predict ice interface propagation.
-Tech Stack: Python, SciPy, Moving Boundary Numerical Schemes.
+
+## Objective
+Develop an asymptotic and numerical model describing ice accretion on general cold manifolds incorporating the nonlinear density anomaly of water. 
+
+## Physical Phenomena 
+- Phase change
+- Heat and Mass Transfer
+- Moving boundary behaviour
+- Density Variation
+
+  ## Mathematical Formulation
+  - Modified Stefan Condition
+  - Nonlinear Heat Equation
+  - Moving Boundary Problems
+ 
+  ## Asssumptions
+  - Continuum Approximation
+  - Negligeable Air Flow Effects
+  - Prescribed Boundary Temperature
+ 
+  ## Numerical Method
+  - Finite Difference Method
+  - Explicit Time Integration
+  - Interface Tracking Algorithm
+ 
+  ## Verification
+  - Comparison against analytical Stefan solutions in limiting cases
+  - Grid Convergence
+
+  ## Validation
+  - Comparison with published literature results
+ 
+  ## Limitations
+
+  - Not suitable for turbulent airflow conditions
+  - Does not account for ice fracture or shedding
+ 
+  ## Future Development
+
+  - Adaptive Meshing
+  - Coupled fluid flow effects
 
 
 Education & Pedagogical Background
 
 Qualified Mathematics Educator: Skilled in technical communication, breaking down multi-scale physics, leading workshops, and documenting mathematical codebases.
 Technical Communication: Experienced in translating non-linear systems for multidisciplinary engineering teams.
+
+## Technical Skills Demonstrated
+
+- Partial Differential Equations
+- Numerical Methods
+- Finite Difference Methods
+- Multiscale Modelling
+- Sensitivity Analysis
+- Verification & Validation
+- Uncertainty Quantification
+- Python
+- MATLAB
+- Simulink
