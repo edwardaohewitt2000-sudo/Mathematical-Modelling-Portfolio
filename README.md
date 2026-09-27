@@ -124,6 +124,16 @@ Develop an asymptotic and numerical model describing ice accretion on general co
   - Adaptive Meshing
   - Coupled fluid flow effects
 
+### Generalised Geometry Investigation
+ 
+The phase-change framework was extended from simple planar domains to arbitrary cold manifolds including:
+ 
+- Cylindrical surfaces
+- Elliptical surfaces
+- Corrugated surfaces
+- Star-shaped surfaces
+ 
+This enabled comparative investigation of the influence of geometric curvature on thermal gradients and interface evolution.
 
 # Education & Pedagogical Background
 
