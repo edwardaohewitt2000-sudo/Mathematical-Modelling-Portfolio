@@ -8,10 +8,6 @@ Phase Change & Moving Boundaries: Modified Stefan Problem, Enthalpy Formulations
 
 Multiphase & Interfacial Phenomena: Micro/Meso/Macro Critical Heat Flux (CHF) multi-scale models, Thin-Film Dynamics, Vapor-Liquid Hydrodynamics.
 
-Porous Media & Heat Pipes: Porous Wick Thermosyphon Modeling, Fluid-Solid Thermal Transport.
-
-High-Temperature Metallurgical Systems:  Scrap Steel Melting, Submerged Arc Furnaces, Porous Bed Convection & Phase Tracking.
-
 Numerical Methods & PDEs: Finite Difference (FDM), Finite Volume (FVM), Non-Linear PDE Solvers, Multiscale Coupling.
 
 Selected Engineering Models
