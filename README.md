@@ -81,7 +81,7 @@ Modelled bulk fluid circulation, vapour removal mechanisms and large-scale hydro
 ### Tech Stack
 Python | NumPy | SciPy | PDE Solvers | Scientific Computing
 
- 2. Modified Stefan Problem: Ice Accretion with Density Anomaly
+## 2. Modified Stefan Problem: Ice Accretion with Density Anomaly
 
 ## Objective
 Develop an asymptotic and numerical model describing ice accretion on general cold manifolds incorporating the nonlinear density anomaly of water. 
