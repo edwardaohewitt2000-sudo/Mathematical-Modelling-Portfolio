@@ -130,7 +130,7 @@ Develop an asymptotic and numerical model describing ice accretion on general co
 Qualified Mathematics Educator: Skilled in technical communication, breaking down multi-scale physics, leading workshops, and documenting mathematical codebases.
 Technical Communication: Experienced in translating non-linear systems for multidisciplinary engineering teams.
 
-## Technical Skills Demonstrated
+# Technical Skills Demonstrated
 
 - Partial Differential Equations
 - Numerical Methods
