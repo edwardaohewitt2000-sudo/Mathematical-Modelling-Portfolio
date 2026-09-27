@@ -7,7 +7,8 @@ I develop mathematical and computational models of complex physical systems with
 This repository showcases selected modelling projects demonstrating mathematical formulation, numerical implementation, verification, validation, and scientific computing techniques. 
 
 
- Technical Expertise & Physical Domains
+# Technical Expertise & Physical Domains
+
 Phase Change & Moving Boundaries: Modified Stefan Problem, Enthalpy Formulations, Moving Mesh Methods, Density Anomalies.
 
 Multiphase & Interfacial Phenomena: Micro/Meso/Macro Critical Heat Flux (CHF) multi-scale models, Thin-Film Dynamics, Vapor-Liquid Hydrodynamics.
@@ -24,7 +25,7 @@ My approach to mathematical modelling follows four stages:
 
 Particular emphasis is placed on understanding model assumptions, operating regimes and limitations. 
 
-Selected Engineering Models
+# Selected Engineering Models
 
 ## 1. Multi-Scale Critical Heat Flux (CHF) & Boiling Dynamics Model
  
@@ -124,7 +125,7 @@ Develop an asymptotic and numerical model describing ice accretion on general co
   - Coupled fluid flow effects
 
 
-Education & Pedagogical Background
+# Education & Pedagogical Background
 
 Qualified Mathematics Educator: Skilled in technical communication, breaking down multi-scale physics, leading workshops, and documenting mathematical codebases.
 Technical Communication: Experienced in translating non-linear systems for multidisciplinary engineering teams.
