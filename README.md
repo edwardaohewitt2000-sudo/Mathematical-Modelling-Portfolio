@@ -1,8 +1,11 @@
- Hello, I'm Edward, and welcome to my GITHUB page.
+# Edward Hewitt
  
- Thermal-Fluids Modeller & Numerical Analyst | North West, UK
+ Applied Mathematician | Numerical Analyst | Thermal-Fluids Modeller| North West, UK
 
-I specialize in multi-scale thermal-fluid dynamics, phase-change continuum mechanics, and non-linear partial differential equations (PDEs). Combining computational physics expertise with a background as a Qualified Mathematics Educator, I focus on translating complex physical systems into robust computational models.
+I develop mathematical and computational models of complex physical systems with a focus on thermal-fluid dynamics, phase-change processes, moving-boundary problems and nonlinear partial differential equations.
+
+This repository showcases selected modelling projects demonstrating mathematical formulation, numerical implementation, verification, validation, and scientific computing techniques. 
+
 
  Technical Expertise & Physical Domains
 Phase Change & Moving Boundaries: Modified Stefan Problem, Enthalpy Formulations, Moving Mesh Methods, Density Anomalies.
