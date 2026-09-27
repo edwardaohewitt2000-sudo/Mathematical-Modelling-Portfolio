@@ -18,7 +18,7 @@ Numerical Methods & PDEs: Finite Difference (FDM), Finite Volume (FVM), Non-Line
 ## Modelling Philosophy
 
 My approach to mathematical modelling follows four stages:
-1. Physical Understanding of the problem. This allows for intuitive and qualitative understanding of how the model is expected to work and what results the model is expected to show. This allows for physics informed reasoning rather than blind mathematical trust. This is supported through thoroughly understanding the literature, both research and textbook, surrounding the phenomena being explored and modelled. 
+1. Physical understanding: Develop a qualitative and literature supported understanding of the governing physics before model construction.
 2. Mathematical Formulation
 3. Numerical Implementation
 4. Verification, Validation and Sensitivity Analysis.
